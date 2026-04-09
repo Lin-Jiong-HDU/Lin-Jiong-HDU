@@ -2,9 +2,9 @@
 
 ### A passionate developer from earth
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnlin&label=Profile views&color=0e75b6&style=flat" alt="johnlin" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Lin-Jiong-HDU&label=Profile views&color=0e75b6&style=flat" alt="johnlin" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=johnlin" alt="johnlin" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Lin-Jiong-HDU" alt="johnlin" /></a> </p>
 
 - 🔭 I'm currently working on **AI Agent, Deep Learning**
 
