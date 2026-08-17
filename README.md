@@ -20,3 +20,6 @@
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Lin-Jiong-HDU&" alt="Lin-Jiong-HDU" /></p>
 
+## 🐍 Contribution Snake
+
+![GitHub Snake](https://raw.githubusercontent.com/Lin-Jiong-HDU/Lin-Jiong-HDU/output/github-snake.svg)
